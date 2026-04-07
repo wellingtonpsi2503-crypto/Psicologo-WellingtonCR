@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Header } from './components/Header';
 import { BackgroundEffects } from './components/BackgroundEffects';
 import { Hero } from './components/Hero';
+import { LogoInterval } from './components/LogoInterval';
 import { AboutSection } from './components/AboutSection';
 import { ApproachHighlightSection } from './components/ApproachHighlightSection';
 import { PillarsSection } from './components/PillarsSection';
@@ -56,11 +57,17 @@ function App() {
         <main className="home-shell">
           <Hero />
           <AboutSection />
+          <LogoInterval />
           <ApproachHighlightSection />
+          <LogoInterval />
           <PillarsSection />
+          <LogoInterval />
           <StructureSection />
+          <LogoInterval />
           <AgendaSection />
+          <LogoInterval />
           <FAQSection />
+          <LogoInterval />
           <ContactSection />
         </main>
         <Footer />
