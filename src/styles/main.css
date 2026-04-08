@@ -336,12 +336,6 @@ a {
   margin-bottom: var(--spacing-md);
 }
 
-.hero-description {
-  font-size: 1.08rem;
-  margin-bottom: var(--spacing-lg);
-  max-width: 52ch;
-}
-
 .hero-actions {
   display: flex;
   gap: var(--spacing-md);
