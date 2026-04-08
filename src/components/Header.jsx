@@ -42,7 +42,10 @@ export function Header() {
             alt="Logo Francisco Wellington CR"
             className="header-logo"
           />
-          <span className="header-name">{siteConfig.professional.name}</span>
+          <div className="header-brand-text">
+            <span className="header-name">{siteConfig.professional.name}</span>
+            <span className="header-crp">CRP: {siteConfig.professional.crp}</span>
+          </div>
         </button>
 
         <button
