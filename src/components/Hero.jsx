@@ -26,11 +26,8 @@ export function Hero() {
             </p>
             <p className="copy hero-description">
               Olá, me chamo Wellington.
-              Acredito que acompanhar as pessoas na travessia de seus caminhos vai muito além de guiá-las por uma estrada reta.
-              A vida é feita de curvas perigosas, adversidades e encruzilhadas que exigem presença, ação e coragem.
-              Por isso, minha escuta é guidada pela presença plena e pela responsabilidade. No atendimento, procuro ir além 
-              do sintoma, do diagnostico e do reducionismo, acolhendo o que há de mais essencial no ser humano: sua história,
-              sua subjetividade e sua singularidade.
+              Acredito que acompanhar as pessoas na travessia de seus caminhos vai muito além de guiá-las por uma estrada reta. A vida é feita de curvas perigosas, adversidades e encruzilhadas que exigem presença, ação e coragem.
+              Por isso, minha escuta é guidada pela presença plena e pela responsabilidade. No atendimento, procuro ir além  do sintoma, do diagnostico e do reducionismo, acolhendo o que há de mais essencial no ser humano: sua história, sua subjetividade e sua singularidade.
               
               Atendimento online e presencial para crianças, adolescentes e adultos.
             </p>
