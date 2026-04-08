@@ -339,7 +339,7 @@ a {
 .hero-description-justified {
     text-align: justify;        /* Justifies text across the full width */
     text-align-last: auto;      /* Last line alignment (auto = browser default) */
-    line-height: 1.8;           /* Improves readability */
+    line-height: 1.6;           /* Improves readability */
     text-justify: inter-word;   /* Ensures spacing is adjusted between words */
     hyphens: auto;              /* Allows automatic word breaking for better justification */
     word-break: break-word;     /* Prevents overflow from long words */
@@ -349,6 +349,7 @@ a {
   display: flex;
   gap: var(--spacing-md);
   flex-wrap: wrap;
+  margin-top: 1.25rem;
 }
 
 .hero-image-shell {
