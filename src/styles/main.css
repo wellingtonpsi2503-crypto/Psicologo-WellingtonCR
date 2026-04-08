@@ -336,10 +336,13 @@ a {
   margin-bottom: var(--spacing-md);
 }
 
-.hero-description {
-  font-size: 1.08rem;
-  margin-bottom: var(--spacing-lg);
-  max-width: 52ch;
+.hero-description-justified {
+    text-align: justify;        /* Justifies text across the full width */
+    text-align-last: auto;      /* Last line alignment (auto = browser default) */
+    line-height: 1.6;           /* Improves readability */
+    text-justify: inter-word;   /* Ensures spacing is adjusted between words */
+    hyphens: auto;              /* Allows automatic word breaking for better justification */
+    word-break: break-word;     /* Prevents overflow from long words */
 }
 
 .hero-actions {
@@ -360,7 +363,7 @@ a {
 .hero-image {
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
   object-position: center bottom;
 }
 
