@@ -33,8 +33,10 @@ export function Hero() {
               e pela responsabilidade. No atendimento, procuro ir além do sintoma, 
               do diagnostico e do reducionismo, acolhendo o que há de mais essencial 
               no ser humano: sua história, sua subjetividade e sua singularidade.
+              
               <br />
-              Atendimento online e presencial para crianças, adolescentes e adultos.
+              
+              Atendo online e presencial para crianças, adolescentes e adultos.
             </p>
 
             <div className="hero-actions">
