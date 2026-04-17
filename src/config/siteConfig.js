@@ -4,9 +4,9 @@ export const siteConfig = {
 
   calendly:
     import.meta.env.VITE_CALENDLY_URL ||
-    'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0hDU1CkBIygf-Zz4CKrt-MHB01AwavDUmzU52R8XVaziJZ1_daBO5xs-gkCtNMjwI7yvuSBbxt?gv=true',
+    'https://calendar.app.google/pEgsS1JfXsEUyyAB6',
   agendaExternal:
-    import.meta.env.VITE_AGENDA_EXTERNAL_URL || 'https://agenda-de-atendimento.netlify.app/',
+    import.meta.env.VITE_AGENDA_EXTERNAL_URL || 'https://agenda-online-nu.vercel.app/',
 
   analytics: {
     gaId: import.meta.env.VITE_GA_MEASUREMENT_ID,
