@@ -1,5 +1,5 @@
 export const siteConfig = {
-  whatsapp: import.meta.env.VITE_WHATSAPP_URL || 'https://wa.me/qr/W2TYKS3VMBLAL1',
+  whatsapp: import.meta.env.VITE_WHATSAPP_URL || 'https://wa.me/5588998476022?text=Ol%C3%A1!%20%F0%9F%98%8A%0ABem-vindo(a)%20ao%20meu%20WhatsApp!%0ASou%20psic%C3%B3logo%20com%20%C3%AAnfase%20em%20Logoterapia%2C%20e%20meu%20trabalho%20%C3%A9%20ajudar%20as%20pessoas%20a%20encontrarem%20mais%20sentido%2C%20prop%C3%B3sito%20e%20dire%C3%A7%C3%A3o%20na%20vida%2C%20especialmente%20nos%20momentos%20de%20dificuldade%20e%20sofrimento.%0AFico%20muito%20feliz%20que%20voc%C3%AA%20tenha%20chegado%20at%C3%A9%20aqui.%0APode%20me%20contar%20o%20que%20te%20trouxe%20ou%20no%20que%20gostaria%20de%20trabalhar.%20Estou%20%C3%A0%20disposi%C3%A7%C3%A3o%20para%20conversarmos%20e%20agendarmos%20uma%20sess%C3%A3o%20(online%20ou%20presencial).%0AQual%20%C3%A9%20o%20seu%20nome%3F%0AAguardo%20seu%20retorno%20com%20carinho.%0AUm%20abra%C3%A7o%2C%0AWellington%20CR%20%F0%9F%AB%B0',
   instagram: import.meta.env.VITE_INSTAGRAM_URL || 'https://www.instagram.com/wellingtoncr_psi',
 
   calendly:
