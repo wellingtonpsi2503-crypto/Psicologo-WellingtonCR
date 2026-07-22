@@ -22,7 +22,7 @@ export function Hero() {
               {siteConfig.professional.name}
             </h1>
             <p className="hero-subtitle">
-              Logoterapia e clínica existencial
+              Psicólogo - Logoterapia e clínica existencial
             </p>
             <p className="copy hero-description hero-description-justified">
               Olá, me chamo Wellington. 
