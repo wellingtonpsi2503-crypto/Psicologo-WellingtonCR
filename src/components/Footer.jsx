@@ -23,7 +23,7 @@ export function Footer() {
           <div>
             <p className="footer-name">{siteConfig.professional.name}</p>
             <p className="footer-copy">
-              Atendimento online e presencial • {siteConfig.professional.specialties.join(' e ')} • 
+              Atendimento psicológico online e presencial orientado pela Logoterapia, voltado à construção de sentido diante dos desafios da existência • {siteConfig.professional.specialties.join(' e ')} • 
               CRP {siteConfig.professional.crp}
             </p>
             <p className="footer-meta">© {new Date().getFullYear()} – Todos os direitos reservados.</p>
