@@ -25,9 +25,9 @@ export const siteConfig = {
   },
 
   seo: {
-    title: 'Francisco Wellington CR | Logoterapia e Clínica Existencial',
+    title: 'Francisco Wellington CR | Psicólogo - Logoterapia e Clínica Existencial',
     description:
-      'Atendimento online e presencial em Logoterapia e clínica existencial com Francisco Wellington CR. Uma escuta orientada por sentido, presença e responsabilidade diante da vida.',
+      'Atendimento psicológico online e presencial orientado pela Logoterapia, voltado à construção de sentido diante dos desafios da existência.',
     privacyTitle: 'Ética, Sigilo, Privacidade e Proteção de Dados | Francisco Wellington CR',
     privacyDescription:
       'Informações sobre sigilo profissional, atendimento on-line, privacidade e proteção de dados no site de Francisco Wellington CR.',
