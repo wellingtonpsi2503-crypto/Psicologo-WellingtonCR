@@ -23,8 +23,7 @@ export function Footer() {
           <div>
             <p className="footer-name">{siteConfig.professional.name}</p>
             <p className="footer-copy">
-              Atendimento psicológico online e presencial orientado pela {siteConfig.professional.specialties.join(' e ')} 
-              voltado à construção de sentido diante dos desafios da existência • CRP {siteConfig.professional.crp}
+              Atendimento psicológico online e presencial orientado pela {siteConfig.professional.specialties.join(' e ')} • CRP {siteConfig.professional.crp}
               </p>
             <p className="footer-meta">© {new Date().getFullYear()} – Todos os direitos reservados.</p>
           </div>
